@@ -22,7 +22,7 @@
 
 **300 Seconds, 833 Users**
 
-![image](https://user-images.githubusercontent.com/45478777/176924813-f5eaf1bc-ec4a-403b-a4e6-f05da1c6f0b9.png)
+![image](https://github.com/Tanveerrifu/Book-API-Load-Test/assets/47789876/9a51b659-bc44-48f6-9c61-1ce0764fee7a)
 
 **600 Seconds, 1667 Users**
 
